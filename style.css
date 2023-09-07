@@ -3,34 +3,24 @@ body{
 
 }
 
-#first{
+div{
     margin-bottom: 8px;
-    background-color: black;
     height: 150px;
     width: 150px;
     margin-left: 125px;
+}
+
+
+#first{
+    background-color: black;
     margin-top: 80px;
 }
 #second{
-    margin-bottom: 8px;
-    background-color:rgba(0, 0, 0, 75%);
-    height: 150px;
-    width: 150px;
-    margin-left: 125px;
+    margin-bottom: 8px;background-color:rgba(0, 0, 0, 75%);
 }
 #third{
-    margin-bottom: 8px;
     background-color:rgba(0, 0, 0, 50%);
-    
-    height: 150px;
-    width: 150px;
-    margin-left: 125px;
 }
 #fourth{
-    margin-bottom: 8px;
     background-color: rgba(0, 0, 0, 25%);
-   
-    height: 150px;
-    width: 150px;
-    margin-left: 125px;
 }
